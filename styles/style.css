@@ -194,5 +194,24 @@ font-weight: 600px;
     height: 100px;
 }
 .name{
-    padding: 15px 120px;
-}
+    padding: 15px 120px;}
+
+    /* footer */
+    footer {
+       text-align: center;
+        /* align-items: center; */
+        /* height: 221px; */
+        /* width: 530px; */
+
+    }
+    footer h2{
+        font-size: 100px;
+        font-weight: bold;
+    }
+    
+        
+    
+    footer div a {
+        text-decoration: none;
+        /* text-aign: inline; */
+    }
