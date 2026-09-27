@@ -154,6 +154,7 @@ font-weight: 600px;
     align-items: center;
     text-align: center;
     background-color:rgb(255, 247, 247) ;
+    border-radius: 15px;
 }
 .ready-heading{
     font-size: 40px;
@@ -169,4 +170,29 @@ font-weight: 600px;
 }
 .ready-image{
     border-radius: 45px;
+}
+/* touch */
+.touch{
+    height: 630px;
+    width: 1140px;
+    margin-left: 140px;
+    background-color:#e2e2f3;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 20px;
+
+}
+.touch-heading{
+    font-size: 95px;
+    font-weight: bold;
+}
+.input-style{
+    margin: 70px 0px 70px 115px;
+}
+.touch-input{
+    width: 400px;
+    height: 100px;
+}
+.name{
+    padding: 15px 120px;
 }
